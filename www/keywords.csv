@@ -1,0 +1,8 @@
+footwall type,gravel texture,slab frequency,slab size,slab thickness,oversize volumes,plantfeed volumes,footwall nature
+conglomerate,fine,cap,capping,slab_thick,os_vol,very low,hard
+clay,coarse,high,large,thick,very low,medium,stiff
+sand,medium,medium,medium,thin,medium,high,firm
+sandstone,fine,low,small,na,high,low,soft
+Claystone,very coarse,pave,very large,thcik,low,very high,sticky
+multiple,,none,na,,very high,vigh,
+unclassified,,random,,,moderate,moderate,
